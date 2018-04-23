@@ -1,0 +1,10 @@
+C:\Users\Jhonny\Documents\Programas\Clase4\Clase4\bin\x86\Debug\Clase4.exe.config
+C:\Users\Jhonny\Documents\Programas\Clase4\Clase4\bin\x86\Debug\Clase4.exe
+C:\Users\Jhonny\Documents\Programas\Clase4\Clase4\bin\x86\Debug\Clase4.pdb
+C:\Users\Jhonny\Documents\Programas\Clase4\Clase4\obj\x86\Debug\Clase4.Properties.Resources.resources
+C:\Users\Jhonny\Documents\Programas\Clase4\Clase4\obj\x86\Debug\Clase4.Vista.frmPersonaDetalle.resources
+C:\Users\Jhonny\Documents\Programas\Clase4\Clase4\obj\x86\Debug\Clase4.csproj.GenerateResource.Cache
+C:\Users\Jhonny\Documents\Programas\Clase4\Clase4\obj\x86\Debug\Clase4.exe
+C:\Users\Jhonny\Documents\Programas\Clase4\Clase4\obj\x86\Debug\Clase4.pdb
+C:\Users\Jhonny\Documents\Programas\Clase4\Clase4\obj\x86\Debug\Clase4.csprojResolveAssemblyReference.cache
+C:\Users\Jhonny\Documents\Programas\Clase4\Clase4\bin\x86\Debug\pruebaDB.mdb
